@@ -1,10 +1,6 @@
 import scapy.all as scapy
 import optparse
 
-#1)arp_request
-#2)broadcast
-#3)response
-
 def get_user_input():
     parse_object = optparse.OptionParser()
     parse_object.add_option("-i","--ipaddress", dest="ip_address", help="Enter IP Address")
