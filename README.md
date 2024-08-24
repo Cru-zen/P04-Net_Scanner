@@ -7,6 +7,6 @@ A network scanner is a software tool that scans the entire network and its nodes
 ## Install
 
 ```
-git clone https://github.com/ANANT555/P04-Net_Scanner.git.
+git clone https://github.com/Cru-zen/P04-Net_Scanner.git.
 ```
 
